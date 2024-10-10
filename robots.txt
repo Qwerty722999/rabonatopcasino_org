@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://rabonatopcasino.org/sitemap_index.xml
